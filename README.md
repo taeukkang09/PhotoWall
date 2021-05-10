@@ -21,4 +21,8 @@ and add it to `src/App.js` on line 8.
 4. npm start
 5. Open http://localhost:3000 to view it in the browser.
 
+## Future Ideas
+
+In the future with more time, I could implement user accounts in PhotoWall, where users can save the photos they like, and come back later to see them on a separate page, similar to Pinterest. 
+
 

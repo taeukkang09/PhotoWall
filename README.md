@@ -1,5 +1,7 @@
 # PhotoWall
 
+![Screen](/PhotoWallMain.png)
+
 A photo repository search app made for the Shopify Fall 2021 Backend-Developer Intern Challenge. 
 Use the search bar to search for your favourite images, and see them displayed in a grid. 
 

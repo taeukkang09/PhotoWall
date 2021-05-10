@@ -2,6 +2,8 @@
 
 A photo repository search app made for the Shopify Fall 2021 Backend-Developer Intern Challenge. 
 Use the search bar to search for your favourite images, and see them displayed in a grid. 
+
+
 This project uses React.js and the Axios package to access the Unsplash API, where we can download images for free. 
 
 ## Get your own Access Key for Unsplash API
